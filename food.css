@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(133, 133, 101);
+
+}
+
+.container{
+     width: 100%;
+     height: 100%; 
+}
+ .child1{
+    background-color: blue;
+    height: 100px;
+    width: 354px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position:sticky
+
+} 
+.option{
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+    
+
+}
+.option p {
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    
+    
+}
+.food{
+    
+    display: flex;
+    gap: 10px;
+    
+}
+.af{
+    color: brown;
+    font-size:x-large;
+    font-weight: bolder;
+    width: 150px;
+
+}
+
+.food img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+.child2{
+    margin-top: 10px;
+    
+
+}
+.child2 img{
+    height: 170px;
+    width:170px;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
+.imgpic{
+    display: flex;
+    gap: 10px;
+    width: 350px;
+  
+}
+.enwe{
+    
+}
+.enjoy{
+    color: red;
+    font-weight: bolder;
+    font-size: 55px;
+}
+.we{
+    color: white;
+    font-size:20px;
+}
+.op:hover{
+    color: red;
+}
+.child3{
+    margin-top: 100px;
+    
+    
+}
+.meet{
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    color: blue;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.chefs{
+    display: flex;
+    gap: 10px;
+    
+}
+.chefs img{
+    height: 170px;
+    width:170px;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
+.chefs p{
+    color: brown;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.africa{
+    margin-top: 50px;
+}
+.afr{
+    color: blue;
+    font-size:xx-large;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.cui{
+    padding: 1em 1em;
+
+}
+.child4{
+    background-color: rgb(136, 77, 77);
+    height: 300px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+
+}
+.logo{
+   padding: 2em 8em;
+
+   
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+    border: solid 3px green;
+    border-radius: 100px;
+    animation-duration: 4ms;
+    
+}
+.childpic{
+    display: flex;
+    gap: 10px;
+    margin-left: 100px;
+}
+.pics img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
